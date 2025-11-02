@@ -104,9 +104,7 @@ pdflatex ctt-wireless-security-whitepaper.tex
 
 ### Contact
 
-- **Email**: antonio.simoes@ctt-security.com
-- **Website**: www.ctt-security.com
-- **Support**: support@ctt-security.com
+- **Email**: amexsimoes@gmail.com
 
 ## Project Structure
 
