@@ -154,4 +154,4 @@ This software is proprietary and confidential. Unauthorized distribution or use 
 
 ---
 
-**For licensing and support**: antonio.simoes@ctt-security.com
+**For licensing and support**: amexsimoes@gmail.com
