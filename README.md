@@ -123,7 +123,7 @@ ctt-wireless-security/
 
 ## Contributing
 
-This is proprietary commercial software. For collaboration inquiries, contact antonio.simoes@ctt-security.com
+This is proprietary commercial software. For collaboration inquiries, contact amexsimoes@gmail.com
 
 ## Security Considerations
 
