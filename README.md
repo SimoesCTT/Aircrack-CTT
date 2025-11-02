@@ -2,7 +2,7 @@
 
 **Professional-Grade Wireless Network Security Testing Tool**
 
-Copyright © 2025 António Nuno Fernandes Simões. All Rights Reserved.
+Copyright © 2025 A.N.F Simões. All Rights Reserved.
 
 ## Overview
 
